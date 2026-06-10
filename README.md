@@ -1,8 +1,10 @@
+<p align="center">
 ```
 ╷─╷╷─╷╷─╷╷ ╷╷ ╷╶─╷
 │─╵├╷┘│ │╷┼╵╵┬╵ ╱
 ╵  ╵└ ╵─╵╵ ╵ ╵ ╵─╴
 ```
+</p>  
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.24%2B-blue?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green" alt="Go"/>
