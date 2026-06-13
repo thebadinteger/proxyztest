@@ -1,12 +1,4 @@
-<p align="center">
-
-```
-╷─╷╷─╷╷─╷╷ ╷╷ ╷╶─╷
-│─╵├╷┘│ │╷┼╵╵┬╵ ╱
-╵  ╵└ ╵─╵╵ ╵ ╵ ╵─╴
-```
-
-</p>  
+<h1 align="center">proxyz</h1>  
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.24%2B-blue?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green" alt="Go"/>
@@ -14,7 +6,7 @@
 </p>  
 <h3 align="center">Multithreaded proxy checker and scraper</h3>  
 
-<div align="center"><img src="https://raw.githubusercontent.com/thebadinteger/proxyz/refs/heads/main/preview.png" alt="Preview"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/thebadinteger/proxyz/refs/heads/main/logo.png" alt="Preview"></div>
 
 ## Features:  
 - Multithreaded 
