@@ -6,7 +6,7 @@
 </p>  
 <h3 align="center">Multithreaded proxy checker and scraper</h3>  
 
-<div align="center"><img src="https://raw.githubusercontent.com/thebadinteger/proxyztest/refs/heads/main/proxyzblue.png" alt="Preview"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/thebadinteger/proxyztest/refs/heads/main/proxyzblue.png" alt="Preview" style="max-width: 30%; height: auto;></div>
 
 ## Features:  
 - Multithreaded 
